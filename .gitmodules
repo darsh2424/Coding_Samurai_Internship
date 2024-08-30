@@ -1,0 +1,9 @@
+[submodule "Calc"]
+	path = Calc
+	url = https://github.com/darsh2424/CodingSamurai-Internship-Calc.git
+[submodule "ToDo"]
+	path = ToDo
+	url = https://github.com/darsh2424/CodingSamurai-Internship-todo.git
+[submodule "Blog"]
+	path = Blog
+	url = https://github.com/darsh2424/CodingSamurai-Internship-blog.git
